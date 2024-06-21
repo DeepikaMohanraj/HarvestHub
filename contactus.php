@@ -218,7 +218,7 @@
 
     <!-- map of riu -->
     <div class="map">
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3406.332815417563!2d74.228565914479!3d31.37738546132943!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3918fde312bd5bf9%3A0xfa85cd464c551ad2!2sRiphah%20International%20University%20-%20Lahore%20Campus!5e0!3m2!1sen!2s!4v1657862957203!5m2!1sen!2s" width="100%" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        <iframe src=""></iframe>
     </div>
 
 
