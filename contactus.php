@@ -216,11 +216,7 @@
 
 
 
-    <!-- map of riu -->
-    <div class="map">
-        <iframe src=""></iframe>
-    </div>
-
+  
 
 
 
